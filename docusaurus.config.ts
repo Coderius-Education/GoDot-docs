@@ -88,7 +88,13 @@ const config: Config = {
           label: '1e 2D game',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          to: '/docs/cheatsheet', // Pas het pad aan naar je cheatsheet-document
+          label: 'Cheatsheet',
+          position: 'left',
+        },
+
+        {
+          href: 'https://github.com/Coderius-Education/Godot',
           label: 'GitHub',
           position: 'right',
         },

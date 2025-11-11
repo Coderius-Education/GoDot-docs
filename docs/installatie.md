@@ -4,32 +4,31 @@ sidebar_position: 1
 
 # Installatie
 
-We gaan de Godot editor installeren op je computer.
+In deze handleiding installeren we de Godot-editor op je computer.
 
-## Stap 1: Downloaden editor
+## Stap 1: De editor downloaden
 
 - Ga naar [deze link](https://godotengine.org/download/archive/)
-- Zoek de eerste versie die begint met `4.5.` (op dit moment is dat 4.5.1-stable)
+- Zoek de nieuwste versie die begint met `4.5.` (op dit moment is dat 4.5.1-stable).
 
 ![install](install.png)
 
 - Klik op `Download`
-- Zoek naar `Windows` en klik dan op `Standard`
+- Zoek naar `Windows` en klik vervolgens op `Standard`.
 
 ![windows](windows.png)
 
 ## Stap 2: Unzippen
 
-In je `Downloads` folder, vind je nu een bestand dat hier op lijkt:
+In je `Downloads`-map vind je nu een bestand dat hierop lijkt:
 
 ![download](download.png)
 
 - Dubbelklik erop en kies bovenaan voor `Alles uitpakken`
-- Verplaatst de twee bestanden naar een andere map op je computer waar je deze bestanden kan terugvinden.
+- Verplaats de uitgepakte bestanden naar een map op je computer waar je ze gemakkelijk kunt terugvinden.
 
-## Stap 3: Openen editor
-Dubbelklik op het bestand `Godot_v4.5.1-stable_win64` en als het goed is, opent Godot:
-
+## Stap 3: De editor openen
+Dubbelklik op het bestand `Godot_v4.5.1-stable_win64.exe` en als het goed is, opent Godot:
 ![godot](godot.png)
 
 
